@@ -1,3 +1,3 @@
 self.addEventListener('push', () => {
-    self.registration.showNotification('test message', {});
+    self.registration.showNotification('Aaron Judge is up to bat', {});
 });
