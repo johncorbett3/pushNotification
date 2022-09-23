@@ -15,4 +15,4 @@ let sub = {
     auth:"H-h5MsEY9JPHN7RvEFj-Hg"
   }};
 
-push.sendNotification(sub, 'test message')
+push.sendNotification(sub, 'Aaron Judge is up to bat')
